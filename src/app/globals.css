@@ -781,7 +781,7 @@ img {
 
 .hero-logo-big {
   font-family: var(--serif);
-  font-size: clamp(6rem, 18vw, 20rem);
+  font-size: clamp(4rem, 12vw, 12rem);
   font-weight: 400;
   line-height: .85;
   letter-spacing: .08em;
@@ -2215,7 +2215,7 @@ footer {
   }
 
   .hero-logo-big {
-    font-size: clamp(4rem, 15vw, 8rem);
+    font-size: clamp(2.5rem, 8vw, 5rem);
     mix-blend-mode: normal;
     -webkit-text-fill-color: var(--ink);
     background: none
