@@ -9,6 +9,9 @@ export const metadata: Metadata = {
     template: '%s | Sandlip-Oasis',
   },
   description: 'A global creative collective with studios in Amsterdam, New York, and Lagos. Brand identity, web, campaign creative, and motion — across three continents.',
+  icons: {
+    icon: '/Images/favicon.ico',
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
